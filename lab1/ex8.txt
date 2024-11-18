@@ -1,0 +1,16 @@
+Vederea artificiala,un domeniu al inteligentei artificiale care permite device-urilor sa interpreteze si sa inteleaga informatiile vizuale din lume, ridica provocari etice profunde, in special in ceea ce priveste dinamica puterii. Pe parcursul anilor aplicabilitatea sa a ajuns sa variaeze de la sistemele de recunoastere faciala in securitate, la supraveghere si colectarea de date in retelele sociale. Aceste tehnologii ofera adesea avantaje pentru anumite entitati, simultan dejavantaje pentru altele, ridicand intrebari etice semnificative despre intimitate, prejudecati si responsabilitate.
+
+Una dintre principalele preocupari etice in viziunea computationala este puterea disproportionata pe care o confera institutiilor si corporatiilor. De exemplu, guvernele si marile companii tehnologice pot utiliza viziunea computationala pentru supraveghere, riscand sa incalce drepturile de intimitate ale indivizilor. Implementarea tehnologiei de recunoastere faciala in spatii publice poate duce la erodarea anonimatului si la inghetarea libertatii de exprimare, in special pentru comunitatile marginalizate care sunt targetate in mod disproportionat de astfel de sisteme. Acest lucru creeaza un dezechilibru in care cei puternici pot monitoriza pe cei mai putin puternici, ajungand chiar sa mareasca inegalitatile sociale existente.
+
+In plus, prejudecatile incorporate in algoritmii de viziune computationala pot amplifica discriminarea sistemica. Datele de antrenament reflecta adesea prejudecati istorice, ducand la rezultate inexacte si nedrepte, cum ar fi rate de identificare gresita mai mari pentru persoanele de culoare. Aceasta nu doar perpetueaza stereotipurile, ci si transfera povara probei asupra indivizilor care trebuie sa navigheze un sistem in dezavantajul lor. In acest context, dinamica puterii se schimba de la o aplicare echitabila a tehnologiei la un scenariu in care anumite grupuri sunt dezavantajate in mod nedrept.
+
+Mai mult, implicatiile etice se extind si la responsabilitate. Atunci cand sistemele de viziune computationala functioneaza defectuos sau iau decizii eronate, determinarea responsabilitatii devine complexa. Cine este responsabil pentru consecinte – dezvoltatorii, organizatiile care implementeaza tehnologia sau algoritmii in sine? Aceasta ambiguitate submineaza increderea in tehnologie si evidentiaza nevoia de cadre etice robuste care sa prioritizeze transparenta si responsabilitatea.
+
+In concluzie, etica viziunii computationale este profund legata de problemele de putere. Capacitatea tehnologiei de a supraveghea, categoriza si interpreta realitatea sunt adesea diferite de adevar, creand deci confuzii ce pot duce in mod direct la dezavantaje pentru anumiti indivizi . Implementarea acestor unelete necesita un angajament de a dezvolta sisteme echitabile care sa protejeze drepturile individuale, sa promoveze responsabilitatea si sa asigure ca beneficiile viziunii computationale sunt distribuite in mod corect in intreaga societate.
+
+
+
+
+
+
+
